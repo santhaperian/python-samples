@@ -1,2 +1,1 @@
-# python-samples
-python samples
+Python programs for RaspberryPi DIY projects.
